@@ -22,7 +22,7 @@ Currently focused on improving my skills in Python, backend development, machine
 
 </td>
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNsN3o0bGtxY3IzMnA1amE0Y3JpaWdudWhvdDNta3U0NXF0YzBsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="280" alt="Coding animation" />
 </td>
   </tr>
 </table>
