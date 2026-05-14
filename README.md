@@ -3,105 +3,105 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TaTanh&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20BACKEND-0891b2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEARNING-CLOUD%20NATIVE-94a3b8?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=TaTanh&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20BACKEND-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARNING-CLOUD%20NATIVE-475569?style=for-the-badge" />
 </p>
 
-<table border="0">
+<table>
   <tr>
-    <td width="60%" style="vertical-align: top;">
+    <td width="60%">
 
 ### Hi, I'm Ta Thanh
 
-I am a **Computer Science** student at the **University of Information Technology (UIT)**. I specialize in exploring AI, backend engineering, and cloud-native application development.
+I am a Computer Science student exploring AI, backend engineering, and cloud-native application development.
 
-I enjoy building practical systems, ranging from **Computer Vision** research—such as Vietnamese traffic sign recognition—to integrating voice mechanics in **Unity** game development.
+I enjoy building practical systems, from machine learning models and recommender systems to web platforms and service-based applications.
 
-Currently, I am focused on mastering Python, backend services, and advanced AI frameworks like the **Tree of Thoughts** for complex problem solving.
+Currently focused on improving my skills in Python, backend development, machine learning, and cloud-native system design.
 
 </td>
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueZCZpbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation" />
 </td>
   </tr>
 </table>
 
-> *“Trying to do better, one project at a time.”*
+> Trying to do better, one project at a time.
 
-## 🛠 Focus Areas
+## Focus Areas
 
 <table>
   <tr>
-    <td width="33%" bgcolor="#f8fafc">
-      <h3 align="center">Artificial Intelligence</h3>
-      <p align="center">Developing models for traffic sign classification and exploring adversarial search algorithms in Pacman.</p>
+    <td width="33%">
+      <h3>Artificial Intelligence</h3>
+      <p>Working with machine learning models, classification tasks, recommender systems, and data-driven applications.</p>
     </td>
-    <td width="33%" bgcolor="#f0f9ff">
-      <h3 align="center">Backend Engineering</h3>
-      <p align="center">Building robust APIs and logic solvers, including high-performance LLM-based solutions.</p>
+    <td width="33%">
+      <h3>Backend Engineering</h3>
+      <p>Building APIs, services, and application logic that solve real-world problems with clean structure.</p>
     </td>
-    <td width="33%" bgcolor="#f8fafc">
-      <h3 align="center">Game Development</h3>
-      <p align="center">Crafting immersive experiences in Unity using unique input mechanics like voice-charged movement.</p>
+    <td width="33%">
+      <h3>Cloud-Native Learning</h3>
+      <p>Exploring Docker, microservices, distributed systems, and scalable deployment workflows.</p>
     </td>
   </tr>
 </table>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-38bdf8?style=for-the-badge&logo=python&logoColor=0f172a" />
+  <img src="https://img.shields.io/badge/Jupyter-f97316?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-f59e0b?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=0f172a" />
+  <img src="https://img.shields.io/badge/Node.js-22c55e?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 📂 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🚦 Traffic Sign Recognition</h3>
-      <p>A system using SVM and CNN models to classify types of Vietnamese traffic signs (Mandatory, Forbidden, etc.).</p>
-      <p><b>Stack:</b> Python, Computer Vision, LaTeX</p>
+      <h3>CoLLMLight</h3>
+      <p>Cooperative Large Language Model Agents for network-wide traffic signal control.</p>
+      <p><b>Stack:</b> Python, LLM Agents, Traffic Signal Control</p>
     </td>
     <td width="50%">
-      <h3>🌙 Moon Explorer (Unity)</h3>
-      <p>A low-gravity astronaut game where jump power is charged through microphone input intensity.</p>
-      <p><b>Stack:</b> C#, Unity, Audio Processing</p>
+      <h3>Traffic Sign Classification</h3>
+      <p>A computer vision project for classifying traffic signs using machine learning workflows.</p>
+      <p><b>Stack:</b> Python, Jupyter Notebook, Computer Vision</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🧠 Tree of Thoughts Solver</h3>
-      <p>Implementing the ToT framework to solve the "Game of 24" using Large Language Models like Gemini and Llama.</p>
-      <p><b>Stack:</b> Python, LLM APIs, Prompt Engineering</p>
+      <h3>UIT Recommender System</h3>
+      <p>A recommender system project focused on learning user-item interaction and recommendation techniques.</p>
+      <p><b>Stack:</b> Python, Jupyter Notebook, Data Processing</p>
     </td>
     <td width="50%">
-      <h3>🕹️ Adversarial Pacman</h3>
-      <p>Applying Minimax, Alpha-Beta pruning, and Expectimax algorithms for intelligent agent behavior.</p>
-      <p><b>Stack:</b> Python, Artificial Intelligence</p>
+      <h3>UIT Go Ride-Hailing Platform</h3>
+      <p>A microservices-based ride-hailing platform built for learning cloud-native system design.</p>
+      <p><b>Stack:</b> JavaScript, Microservices, Cloud-Native</p>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TaTanh&show_icons=true&theme=flat&color_title=0891b2&color_icon=0891b2&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaTanh&layout=compact&theme=flat&color_title=0891b2&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TaTanh&show_icons=true&theme=github_dark&hide_border=true" alt="Ta Thanh GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaTanh&layout=compact&theme=github_dark&hide_border=true" alt="Ta Thanh top languages" />
 </p>
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/tangocthanh">
-    <img src="https://img.shields.io/badge/LinkedIn-Ta%20Thanh-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ta%20Thanh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/ta.thanh05">
-    <img src="https://img.shields.io/badge/Facebook-Ta%20Thanh-94a3b8?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-Ta%20Thanh-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
