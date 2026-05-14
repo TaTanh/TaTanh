@@ -1,19 +1,28 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="260" fill="#0d1117"/>
+  <!-- Background with dark gray / white-gray base -->
+  <rect width="1200" height="260" fill="#f4f4f5"/>
+  
+  <!-- Wave background with updated aqua/cyan gradient -->
   <path d="M0 0H1200V210C950 235 810 190 600 220C380 250 180 220 0 210V0Z" fill="url(#g)"/>
+  
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="0">
-      <stop stop-color="#0f172a"/>
-      <stop offset="0.45" stop-color="#2563eb"/>
-      <stop offset="1" stop-color="#ea580c"/>
+    <!-- New smooth gradient using aqua/cyan and gray -->
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>  <!-- Cyan/Aqua -->
+      <stop offset="0.5" stop-color="#ffffff"/> <!-- White/Soft Gray Center -->
+      <stop offset="1" stop-color="#94a3b8"/> <!-- Slate Gray -->
     </linearGradient>
   </defs>
 
-  <text x="600" y="110" fill="white" font-size="56" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+  <!-- Title Text - Now Dark for contrast against light gradient -->
+  <text x="600" y="110" fill="#1e293b" font-size="56" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
     Ta Thanh
   </text>
 
-  <text x="600" y="155" fill="#e5e7eb" font-size="24" font-family="Arial, sans-serif" font-weight="600" text-anchor="middle">
+  <!-- Subtitle Text - Now Medium-Dark for contrast -->
+  <text x="600" y="155" fill="#475569" font-size="24" font-family="Arial, sans-serif" font-weight="600" text-anchor="middle">
     AI Learner | Backend Developer | Cloud-Native Systems
   </text>
 </svg>
+```http://googleusercontent.com/image_generation_content/168
+
