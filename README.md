@@ -88,7 +88,7 @@ Currently focused on improving my skills in Python, backend development, machine
   </tr>
 </table>
 
-## GitHub Activity
+<!-- ## GitHub Activity
 
 <p align="center">
   <img 
@@ -101,7 +101,7 @@ Currently focused on improving my skills in Python, backend development, machine
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaTanh&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
     alt="Ta Thanh Top Languages"
   />
-</p>
+</p> -->
 
 ## Connect with Me
 
