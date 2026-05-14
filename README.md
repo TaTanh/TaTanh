@@ -91,8 +91,16 @@ Currently focused on improving my skills in Python, backend development, machine
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TaTanh&show_icons=true&theme=github_dark&hide_border=true" alt="Ta Thanh GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaTanh&layout=compact&theme=github_dark&hide_border=true" alt="Ta Thanh top languages" />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=TaTanh&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github"
+    alt="Ta Thanh GitHub Stats"
+  />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaTanh&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
+    alt="Ta Thanh Top Languages"
+  />
 </p>
 
 ## Connect with Me
